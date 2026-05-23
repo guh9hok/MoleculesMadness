@@ -1,0 +1,4158 @@
+{
+  "mod_elements": [
+    {
+      "name": "Dihydrogenmonoxide",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dihydrogenmonoxide",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/DihydrogenmonoxideItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/dihydrogenmonoxide.json",
+          "src/main/resources/assets/molecules_madness/items/dihydrogenmonoxide.json"
+        ]
+      }
+    },
+    {
+      "name": "Dihydrogenmonoxiderecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dihydrogenmonoxiderecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/dihydrogenmonoxiderecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Saltwater",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saltwater",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/SaltwaterItem.java",
+          "src/main/resources/assets/molecules_madness/items/saltwater.json",
+          "src/main/resources/assets/molecules_madness/models/item/saltwater.json"
+        ]
+      }
+    },
+    {
+      "name": "Saltwaterrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saltwaterrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/saltwaterrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Salt",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sodium_chloride",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/sodium_chloride.json",
+          "src/main/resources/assets/molecules_madness/models/item/sodium_chloride.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/SaltItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Saltrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "saltrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/saltrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Methane",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "methane",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/methane.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/MethaneItem.java",
+          "src/main/resources/assets/molecules_madness/items/methane.json"
+        ]
+      }
+    },
+    {
+      "name": "Methanerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "methanerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/methanerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Chlorine",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chlorine",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/chlorine.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/ChlorineItem.java",
+          "src/main/resources/assets/molecules_madness/items/chlorine.json"
+        ]
+      }
+    },
+    {
+      "name": "Chlorinerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chlorinerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/chlorinerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Carbondioxide",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carbondioxide",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/CarbondioxideItem.java",
+          "src/main/resources/assets/molecules_madness/items/carbondioxide.json",
+          "src/main/resources/assets/molecules_madness/models/item/carbondioxide.json"
+        ]
+      }
+    },
+    {
+      "name": "CO2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "co_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/co_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Ammonia",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ammonia",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/AmmoniaItem.java",
+          "src/main/resources/assets/molecules_madness/items/ammonia.json",
+          "src/main/resources/assets/molecules_madness/models/item/ammonia.json"
+        ]
+      }
+    },
+    {
+      "name": "NH3",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nh_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/nh_3.json"
+        ]
+      }
+    },
+    {
+      "name": "Oxygen",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oxygen",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/oxygen.json",
+          "src/main/resources/assets/molecules_madness/models/item/oxygen.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/OxygenItem.java"
+        ]
+      }
+    },
+    {
+      "name": "O2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "o_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/o_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Nitricacid",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nitricacid",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/NitricacidItem.java",
+          "src/main/resources/assets/molecules_madness/items/nitricacid.json",
+          "src/main/resources/assets/molecules_madness/models/item/nitricacid.json"
+        ]
+      }
+    },
+    {
+      "name": "HNO3",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hno_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/hno_3.json"
+        ]
+      }
+    },
+    {
+      "name": "HydrogenPerioxide",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hydrogen_perioxide",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/hydrogen_perioxide.json",
+          "src/main/resources/assets/molecules_madness/models/item/hydrogen_perioxide.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/HydrogenPerioxideItem.java"
+        ]
+      }
+    },
+    {
+      "name": "H2O2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "h_2_o_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/h_2_o_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Ethanol",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ethanol",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/EthanolItem.java",
+          "src/main/resources/assets/molecules_madness/items/ethanol.json",
+          "src/main/resources/assets/molecules_madness/models/item/ethanol.json"
+        ]
+      }
+    },
+    {
+      "name": "C2H5OH",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "c_2_h_5_oh",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/c_2_h_5_oh.json"
+        ]
+      }
+    },
+    {
+      "name": "Glue",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glue",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/glue.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/GlueItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/glue.json"
+        ]
+      }
+    },
+    {
+      "name": "Gluerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gluerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/gluerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Oxyenmolecules",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oxyenmolecules",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/oxyenmolecules.json",
+          "src/main/resources/assets/molecules_madness/items/oxyenmolecules.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/OxyenmoleculesItem.java"
+        ]
+      }
+    },
+    {
+      "name": "O2R",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "o_2_r",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/o_2_r.json"
+        ]
+      }
+    },
+    {
+      "name": "Ozone",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ozone",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/ozone.json",
+          "src/main/resources/assets/molecules_madness/items/ozone.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/OzoneItem.java"
+        ]
+      }
+    },
+    {
+      "name": "O3",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "o_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/o_3.json"
+        ]
+      }
+    },
+    {
+      "name": "Acetone",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acetone",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/acetone.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/AcetoneItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/acetone.json"
+        ]
+      }
+    },
+    {
+      "name": "Acetonerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acetonerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/acetonerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Carbon",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carbon",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/carbon.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/CarbonItem.java",
+          "src/main/resources/assets/molecules_madness/items/carbon.json"
+        ]
+      }
+    },
+    {
+      "name": "C",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "c",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/c.json"
+        ]
+      }
+    },
+    {
+      "name": "Hydrogen",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hydrogen",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/hydrogen.json",
+          "src/main/resources/assets/molecules_madness/items/hydrogen.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/HydrogenItem.java"
+        ]
+      }
+    },
+    {
+      "name": "H",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "h",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/h.json"
+        ]
+      }
+    },
+    {
+      "name": "AmmoniumNitrate",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ammonium_nitrate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/ammonium_nitrate.json",
+          "src/main/resources/assets/molecules_madness/models/item/ammonium_nitrate.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/AmmoniumNitrateItem.java"
+        ]
+      }
+    },
+    {
+      "name": "NH4NO3",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nh_4_no_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/nh_4_no_3.json"
+        ]
+      }
+    },
+    {
+      "name": "Ethylene",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ethylene",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/ethylene.json",
+          "src/main/resources/assets/molecules_madness/items/ethylene.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/EthyleneItem.java"
+        ]
+      }
+    },
+    {
+      "name": "C2H4",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "c_2_h_4",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/c_2_h_4.json"
+        ]
+      }
+    },
+    {
+      "name": "Polyethylene",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polyethylene",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/polyethylene.json",
+          "src/main/resources/assets/molecules_madness/items/polyethylene.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/PolyethyleneItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Polythelene",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "polythelene",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/polyethelene_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Sodiumhydroxide",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sodiumhydroxide",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/sodiumhydroxide.json",
+          "src/main/resources/assets/molecules_madness/items/sodiumhydroxide.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/SodiumhydroxideItem.java"
+        ]
+      }
+    },
+    {
+      "name": "NaOH",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "na_oh",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/na_oh.json"
+        ]
+      }
+    },
+    {
+      "name": "HCl",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "h_cl",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/h_cl.json"
+        ]
+      }
+    },
+    {
+      "name": "Sodiumhypochlorite",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sodiumhypochlorite",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/sodiumhypochlorite.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/SodiumhypochloriteItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/sodiumhypochlorite.json"
+        ]
+      }
+    },
+    {
+      "name": "Bleach",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bleach",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/bleach.json"
+        ]
+      }
+    },
+    {
+      "name": "Oil",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oil",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/oil.json",
+          "src/main/resources/assets/molecules_madness/models/item/oil.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/OilItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Oilrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oilrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/oilrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Glycerin",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glycerin",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/glycerin.json",
+          "src/main/resources/assets/molecules_madness/models/item/glycerin.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/GlycerinItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Glycerinrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glycerinrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/glycerinrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Soap",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soap",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/soap.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/SoapItem.java",
+          "src/main/resources/assets/molecules_madness/items/soap.json"
+        ]
+      }
+    },
+    {
+      "name": "Soaprecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "soaprecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/soaprecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Benzene",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "benzene",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/benzene.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/BenzeneItem.java",
+          "src/main/resources/assets/molecules_madness/items/benzene.json"
+        ]
+      }
+    },
+    {
+      "name": "Benzenerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "benzenerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/benzenerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Latex",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "latex",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/LatexItem.java",
+          "src/main/resources/assets/molecules_madness/items/latex.json",
+          "src/main/resources/assets/molecules_madness/models/item/latex.json"
+        ]
+      }
+    },
+    {
+      "name": "Latexrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "latexrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/latexrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Petrolium",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "petrolium",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/petrolium.json",
+          "src/main/resources/assets/molecules_madness/items/petrolium.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/PetroliumItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Petroliumrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "petroliumrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/petroliumrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Magnesiumsalt",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magnesiumsalt",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/magnesiumsalt.json",
+          "src/main/resources/assets/molecules_madness/items/magnesiumsalt.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/MagnesiumsaltItem.java"
+        ]
+      }
+    },
+    {
+      "name": "MGsalt",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "m_gsalt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/m_gsalt.json"
+        ]
+      }
+    },
+    {
+      "name": "Magnesium",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magnesium",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/magnesium.json",
+          "src/main/resources/assets/molecules_madness/items/magnesium.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/MagnesiumItem.java"
+        ]
+      }
+    },
+    {
+      "name": "MG",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mg",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/mg.json"
+        ]
+      }
+    },
+    {
+      "name": "MagnesiumOxide",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magnesium_oxide",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/magnesium_oxide.json",
+          "src/main/resources/assets/molecules_madness/models/item/magnesium_oxide.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/MagnesiumOxideItem.java"
+        ]
+      }
+    },
+    {
+      "name": "MGoxide",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "m_goxide",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/m_goxide.json"
+        ]
+      }
+    },
+    {
+      "name": "Calciumchloride",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "calciumchloride",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/CalciumchlorideItem.java",
+          "src/main/resources/assets/molecules_madness/items/calciumchloride.json",
+          "src/main/resources/assets/molecules_madness/models/item/calciumchloride.json"
+        ]
+      }
+    },
+    {
+      "name": "Calciumchloriderecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "calciumchloriderecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/calciumchloriderecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Potassiumchloride",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "potassiumchloride",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/PotassiumchlorideItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/potassiumchloride.json",
+          "src/main/resources/assets/molecules_madness/items/potassiumchloride.json"
+        ]
+      }
+    },
+    {
+      "name": "Potassiumchloriderecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "potassiumchloriderecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/potassiumchloriderecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "MercuricChloride",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mercuric_chloride",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/mercuric_chloride.json",
+          "src/main/resources/assets/molecules_madness/models/item/mercuric_chloride.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/MercuricChlorideItem.java"
+        ]
+      }
+    },
+    {
+      "name": "MercuricChloriderecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mercuric_chloriderecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/mercuric_chloriderecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "OxidizedEthanol",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oxidized_ethanol",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/oxidized_ethanol.json",
+          "src/main/resources/assets/molecules_madness/models/item/oxidized_ethanol.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/OxidizedEthanolItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Oxidizedethanolrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oxidizedethanolrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/oxidizedethanolrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Sodiumacetate",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sodiumacetate",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/SodiumacetateItem.java",
+          "src/main/resources/assets/molecules_madness/items/sodiumacetate.json",
+          "src/main/resources/assets/molecules_madness/models/item/sodiumacetate.json"
+        ]
+      }
+    },
+    {
+      "name": "Sodiumacetaterecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sodiumacetaterecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/sodiumacetaterecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Luminol",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "luminol",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/luminol.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/LuminolItem.java",
+          "src/main/resources/assets/molecules_madness/items/luminol.json"
+        ]
+      }
+    },
+    {
+      "name": "Luminolrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "luminolrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/luminolrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Sulfuricacid",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sulfuricacid",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/SulfuricacidItem.java",
+          "src/main/resources/assets/molecules_madness/items/sulfuricacid.json",
+          "src/main/resources/assets/molecules_madness/models/item/sulfuricacid.json"
+        ]
+      }
+    },
+    {
+      "name": "Sulfuricacidrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sulfuricacidrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/sulfuricacidrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Nitroglycerin",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nitroglycerin",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/nitroglycerin.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/NitroglycerinItem.java",
+          "src/main/resources/assets/molecules_madness/items/nitroglycerin.json"
+        ]
+      }
+    },
+    {
+      "name": "Nitroglycerinrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nitroglycerinrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/nitroglycerinrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "TNT",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tnt",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/minecraft/recipe/tnt.json"
+        ]
+      }
+    },
+    {
+      "name": "Flour",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flour",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/FlourItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/flour.json",
+          "src/main/resources/assets/molecules_madness/items/flour.json"
+        ]
+      }
+    },
+    {
+      "name": "Flourrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flourrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/flourrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Yeast",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yeast",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/YeastItem.java",
+          "src/main/resources/assets/molecules_madness/items/yeast.json",
+          "src/main/resources/assets/molecules_madness/models/item/yeast.json"
+        ]
+      }
+    },
+    {
+      "name": "Yeastrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yeastrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/yeastrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Elephantstoothpaste",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "elephantstoothpaste",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/ElephantstoothpasteItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/elephantstoothpaste.json",
+          "src/main/resources/assets/molecules_madness/items/elephantstoothpaste.json"
+        ]
+      }
+    },
+    {
+      "name": "Elephanttoothpaste",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "elephanttoothpaste",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/elephanttoothpaste.json"
+        ]
+      }
+    },
+    {
+      "name": "Potassiumiodide",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "potassiumiodide",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/potassiumiodide.json",
+          "src/main/resources/assets/molecules_madness/items/potassiumiodide.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/PotassiumiodideItem.java"
+        ]
+      }
+    },
+    {
+      "name": "PotassiumIodiderecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "potassium_iodiderecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/potassium_iodiderecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Potassiumpermanganat",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "potassiumpermanganat",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/potassiumpermanganat.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/PotassiumpermanganatItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/potassiumpermanganat.json"
+        ]
+      }
+    },
+    {
+      "name": "Potassiumpermanganatrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "potassiumpermanganatrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/potassiumpermanganatrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Manganeseheptoxide",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "manganeseheptoxide",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/manganeseheptoxide.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/ManganeseheptoxideItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/manganeseheptoxide.json"
+        ]
+      }
+    },
+    {
+      "name": "Manganeseheptoxiderecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "manganeseheptoxiderecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/manganeseheptoxiderecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Sodium",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sodium",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/SodiumItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/sodium.json",
+          "src/main/resources/assets/molecules_madness/items/sodium.json"
+        ]
+      }
+    },
+    {
+      "name": "Sodiumrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sodiumrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/sodiumrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Bakingsoda",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bakingsoda",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/BakingsodaItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/bakingsoda.json",
+          "src/main/resources/assets/molecules_madness/items/bakingsoda.json"
+        ]
+      }
+    },
+    {
+      "name": "Bakingsodarecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bakingsodarecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/bakingsodarecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Carbonmonoxide",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carbonmonoxide",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/carbonmonoxide.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/CarbonmonoxideItem.java",
+          "src/main/resources/assets/molecules_madness/items/carbonmonoxide.json"
+        ]
+      }
+    },
+    {
+      "name": "CO",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "co",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/co.json"
+        ]
+      }
+    },
+    {
+      "name": "Carbondioxide2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carbondioxide_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/carbondioxide_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Dihydrogen",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dihydrogen",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/dihydrogen.json",
+          "src/main/resources/assets/molecules_madness/items/dihydrogen.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/DihydrogenItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Dihydrogenrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dihydrogenrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/dihydrogenrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Tetraoxygen",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tetraoxygen",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/tetraoxygen.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/TetraoxygenItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/tetraoxygen.json"
+        ]
+      }
+    },
+    {
+      "name": "Tetraoxygenrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tetraoxygenrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/tetraoxygenrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Octaoxygen",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "octaoxygen",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/octaoxygen.json",
+          "src/main/resources/assets/molecules_madness/items/octaoxygen.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/OctaoxygenItem.java"
+        ]
+      }
+    },
+    {
+      "name": "O8",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "o_8",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/o_8.json"
+        ]
+      }
+    },
+    {
+      "name": "Dicarbon",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dicarbon",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/dicarbon.json",
+          "src/main/resources/assets/molecules_madness/items/dicarbon.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/DicarbonItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Dicarbonrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dicarbonrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/dicarbonrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Carbon2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carbon_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/carbon_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Trimersodium",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trimersodium",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/trimersodium.json",
+          "src/main/resources/assets/molecules_madness/items/trimersodium.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/TrimersodiumItem.java"
+        ]
+      }
+    },
+    {
+      "name": "NA3",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "na_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/na_3.json"
+        ]
+      }
+    },
+    {
+      "name": "Sodiumdiatomic",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sodiumdiatomic",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/SodiumdiatomicItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/sodiumdiatomic.json",
+          "src/main/resources/assets/molecules_madness/items/sodiumdiatomic.json"
+        ]
+      }
+    },
+    {
+      "name": "Sodiumdiatomicrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sodiumdiatomicrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/sodiumdiatomicrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Dinitrogen",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dinitrogen",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/DinitrogenItem.java",
+          "src/main/resources/assets/molecules_madness/items/dinitrogen.json",
+          "src/main/resources/assets/molecules_madness/models/item/dinitrogen.json"
+        ]
+      }
+    },
+    {
+      "name": "Dinitrogenrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dinitrogenrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/dinitrogenrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Diphosphorus",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diphosphorus",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/diphosphorus.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/DiphosphorusItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/diphosphorus.json"
+        ]
+      }
+    },
+    {
+      "name": "Diphosphorusrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diphosphorusrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/diphosphorusrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Dinitrogenmonoxide",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dinitrogenmonoxide",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/dinitrogenmonoxide.json",
+          "src/main/resources/assets/molecules_madness/models/item/dinitrogenmonoxide.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/DinitrogenmonoxideItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Dinitrogenmonoxiderecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dinitrogenmonoxiderecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/dinitrogenmonoxiderecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Phenol",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phenol",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/phenol.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/PhenolItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/phenol.json"
+        ]
+      }
+    },
+    {
+      "name": "Phenolrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phenolrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/phenolrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Sulfurdioxide",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sulfurdioxide",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/sulfurdioxide.json",
+          "src/main/resources/assets/molecules_madness/items/sulfurdioxide.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/SulfurdioxideItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Sulfurdioxiderecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sulfurdioxiderecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/sulfurdioxiderecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Nitrousoxide",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nitrousoxide",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/NitrousoxideItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/nitrousoxide.json",
+          "src/main/resources/assets/molecules_madness/items/nitrousoxide.json"
+        ]
+      }
+    },
+    {
+      "name": "Nitrousoxiderecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nitrousoxiderecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/nitrousoxiderecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Propane",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "propane",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/propane.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/PropaneItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/propane.json"
+        ]
+      }
+    },
+    {
+      "name": "Propanerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "propanerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/propanerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Butane",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "butane",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/ButaneItem.java",
+          "src/main/resources/assets/molecules_madness/items/butane.json",
+          "src/main/resources/assets/molecules_madness/models/item/butane.json"
+        ]
+      }
+    },
+    {
+      "name": "Butanerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "butanerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/butanerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Aceticacid",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aceticacid",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/AceticacidItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/aceticacid.json",
+          "src/main/resources/assets/molecules_madness/items/aceticacid.json"
+        ]
+      }
+    },
+    {
+      "name": "Aceticacidrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aceticacidrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/aceticacidrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Formaldehyde",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "formaldehyde",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/formaldehyde.json",
+          "src/main/resources/assets/molecules_madness/items/formaldehyde.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/FormaldehydeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Methanol",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "methanol",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/methanol.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/MethanolItem.java",
+          "src/main/resources/assets/molecules_madness/items/methanol.json"
+        ]
+      }
+    },
+    {
+      "name": "Methanolrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "methanolrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/methanolrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Formaldehyderecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "formaldehyderecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/formaldehyderecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Acetylene",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acetylene",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/AcetyleneItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/acetylene.json",
+          "src/main/resources/assets/molecules_madness/items/acetylene.json"
+        ]
+      }
+    },
+    {
+      "name": "Acetylenerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acetylenerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/acetylenerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Hydrogencyanide",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hydrogencyanide",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/hydrogencyanide.json",
+          "src/main/resources/assets/molecules_madness/models/item/hydrogencyanide.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/HydrogencyanideItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Hydrogencyaniderecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hydrogencyaniderecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/hydrogencyaniderecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Nitricoxide",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nitricoxide",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/NitricoxideItem.java",
+          "src/main/resources/assets/molecules_madness/items/nitricoxide.json",
+          "src/main/resources/assets/molecules_madness/models/item/nitricoxide.json"
+        ]
+      }
+    },
+    {
+      "name": "Nitrogen",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nitrogen",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/nitrogen.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/NitrogenItem.java",
+          "src/main/resources/assets/molecules_madness/items/nitrogen.json"
+        ]
+      }
+    },
+    {
+      "name": "Nitrogenrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nitrogenrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/nitrogenrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Nitricoxiderecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nitricoxiderecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/nitricoxiderecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Hydrogensulfide",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hydrogensulfide",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/hydrogensulfide.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/HydrogensulfideItem.java",
+          "src/main/resources/assets/molecules_madness/items/hydrogensulfide.json"
+        ]
+      }
+    },
+    {
+      "name": "Hydrogensulfiderecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hydrogensulfiderecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/hydrogensulfiderecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Silicondioxide",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silicondioxide",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/silicondioxide.json",
+          "src/main/resources/assets/molecules_madness/items/silicondioxide.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/SilicondioxideItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Silicondioxiderecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "silicondioxiderecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/silicondioxiderecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Calciumcarbonate",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "calciumcarbonate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/calciumcarbonate.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/CalciumcarbonateItem.java",
+          "src/main/resources/assets/molecules_madness/items/calciumcarbonate.json"
+        ]
+      }
+    },
+    {
+      "name": "Calciumcarbonaterecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "calciumcarbonaterecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/calciumcarbonaterecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Phosphoricacid",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phosphoricacid",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/PhosphoricacidItem.java",
+          "src/main/resources/assets/molecules_madness/items/phosphoricacid.json",
+          "src/main/resources/assets/molecules_madness/models/item/phosphoricacid.json"
+        ]
+      }
+    },
+    {
+      "name": "Phosphoricacidrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phosphoricacidrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/phosphoricacidrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Sodiumcarbonate",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sodiumcarbonate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/sodiumcarbonate.json",
+          "src/main/resources/assets/molecules_madness/models/item/sodiumcarbonate.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/SodiumcarbonateItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Sodiumcarbonaterecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sodiumcarbonaterecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/sodiumcarbonaterecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Calciumoxide",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "calciumoxide",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/calciumoxide.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/CalciumoxideItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/calciumoxide.json"
+        ]
+      }
+    },
+    {
+      "name": "Calciumoxiderecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "calciumoxiderecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/calciumoxiderecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Ammoniumchloride",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ammoniumchloride",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/ammoniumchloride.json",
+          "src/main/resources/assets/molecules_madness/models/item/ammoniumchloride.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/AmmoniumchlorideItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Ammoniumchloriderecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ammoniumchloriderecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/ammoniumchloriderecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Sodiumfluoride",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sodiumfluoride",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/sodiumfluoride.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/SodiumfluorideItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/sodiumfluoride.json"
+        ]
+      }
+    },
+    {
+      "name": "Sodiumfluoriderecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sodiumfluoriderecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/sodiumfluoriderecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Hydrofluoricacid",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hydrofluoricacid",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/hydrofluoricacid.json",
+          "src/main/resources/assets/molecules_madness/models/item/hydrofluoricacid.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/HydrofluoricacidItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Hydrofluoricacidrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hydrofluoricacidrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/hydrofluoricacidrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Citricacid",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "citricacid",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/citricacid.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/CitricacidItem.java",
+          "src/main/resources/assets/molecules_madness/items/citricacid.json"
+        ]
+      }
+    },
+    {
+      "name": "Citricacidrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "citricacidrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/citricacidrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Laticacidrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "laticacidrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/laticacidrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Formicacid",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "formicacid",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/formicacid.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/FormicacidItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/formicacid.json"
+        ]
+      }
+    },
+    {
+      "name": "Formicacidrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "formicacidrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/formicacidrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Oxalicacid",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oxalicacid",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/oxalicacid.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/OxalicacidItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/oxalicacid.json"
+        ]
+      }
+    },
+    {
+      "name": "Oxalicacidrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oxalicacidrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/oxalicacidrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Chromicacid",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chromicacid",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/chromicacid.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/ChromicacidItem.java",
+          "src/main/resources/assets/molecules_madness/items/chromicacid.json"
+        ]
+      }
+    },
+    {
+      "name": "Chromicacidrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chromicacidrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/chromicacidrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Carbonicacid",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carbonicacid",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/carbonicacid.json",
+          "src/main/resources/assets/molecules_madness/items/carbonicacid.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/CarbonicacidItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Carbonicacidrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carbonicacidrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/carbonicacidrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Perchloricacid",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "perchloricacid",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/PerchloricacidItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/perchloricacid.json",
+          "src/main/resources/assets/molecules_madness/items/perchloricacid.json"
+        ]
+      }
+    },
+    {
+      "name": "Perchloricacidrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "perchloricacidrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/perchloricacidrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Hypochlorousacid",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hypochlorousacid",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/hypochlorousacid.json",
+          "src/main/resources/assets/molecules_madness/items/hypochlorousacid.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/HypochlorousacidItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Hypochlorousacidrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hypochlorousacidrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/hypochlorousacidrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Boricacid",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boricacid",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/boricacid.json",
+          "src/main/resources/assets/molecules_madness/items/boricacid.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/BoricacidItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Boricacidrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boricacidrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/boricacidrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Mercury",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mercury",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/MercuryItem.java",
+          "src/main/resources/assets/molecules_madness/items/mercury.json",
+          "src/main/resources/assets/molecules_madness/models/item/mercury.json"
+        ]
+      }
+    },
+    {
+      "name": "Mercuryrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mercuryrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/mercuryrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Mercurynitrate",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mercurynitrate",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/MercurynitrateItem.java",
+          "src/main/resources/assets/molecules_madness/items/mercurynitrate.json",
+          "src/main/resources/assets/molecules_madness/models/item/mercurynitrate.json"
+        ]
+      }
+    },
+    {
+      "name": "Mercurynitraterecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mercurynitraterecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/mercurynitraterecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Mercuryfulminate",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mercuryfulminate",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/mercuryfulminate.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/MercuryfulminateItem.java",
+          "src/main/resources/assets/molecules_madness/items/mercuryfulminate.json"
+        ]
+      }
+    },
+    {
+      "name": "Mercuryfulminaterecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mercuryfulminaterecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/mercuryfulminaterecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Borax",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borax",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/BoraxItem.java",
+          "src/main/resources/assets/molecules_madness/items/borax.json",
+          "src/main/resources/assets/molecules_madness/models/item/borax.json"
+        ]
+      }
+    },
+    {
+      "name": "Boraxrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boraxrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/boraxrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Glucose",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glucose",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/glucose.json",
+          "src/main/resources/assets/molecules_madness/items/glucose.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/GlucoseItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Glucoserecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "glucoserecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/glucoserecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Caffeine",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "caffeine",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/caffeine.json",
+          "src/main/resources/assets/molecules_madness/items/caffeine.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/CaffeineItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Caffeinerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "caffeinerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/caffeinerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BorosilicateGlass",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borosilicate_glass",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/BorosilicateGlassItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/borosilicate_glass.json",
+          "src/main/resources/assets/molecules_madness/items/borosilicate_glass.json"
+        ]
+      }
+    },
+    {
+      "name": "BorosilicateGlassrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "borosilicate_glassrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/borosilicate_glassrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Methylamine",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "methylamine",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/methylamine.json",
+          "src/main/resources/assets/molecules_madness/models/item/methylamine.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/MethylamineItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Methylaminerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "methylaminerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/methylaminerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Phosphine",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phosphine",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/PhosphineItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/phosphine.json",
+          "src/main/resources/assets/molecules_madness/items/phosphine.json"
+        ]
+      }
+    },
+    {
+      "name": "Phosphinerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phosphinerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/phosphinerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Aluminum",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminum",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/aluminum.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/AluminumItem.java",
+          "src/main/resources/assets/molecules_madness/items/aluminum.json"
+        ]
+      }
+    },
+    {
+      "name": "Aluminumrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminumrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/aluminumrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Ironoxide",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironoxide",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/ironoxide.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/IronoxideItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/ironoxide.json"
+        ]
+      }
+    },
+    {
+      "name": "Ironoxiderecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironoxiderecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/ironoxiderecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Aluminumoxide",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminumoxide",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/AluminumoxideItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/aluminumoxide.json",
+          "src/main/resources/assets/molecules_madness/items/aluminumoxide.json"
+        ]
+      }
+    },
+    {
+      "name": "Aluminumoxiderecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aluminumoxiderecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/aluminumoxiderecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Thermite",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thermite",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/thermite.json",
+          "src/main/resources/assets/molecules_madness/models/item/thermite.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/ThermiteItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Thermiterecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thermiterecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/thermiterecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Ricin",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ricin",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/RicinItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/ricin.json",
+          "src/main/resources/assets/molecules_madness/items/ricin.json"
+        ]
+      }
+    },
+    {
+      "name": "Ricinrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ricinrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/ricinrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Ascorbicacid",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ascorbicacid",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/ascorbicacid.json",
+          "src/main/resources/assets/molecules_madness/items/ascorbicacid.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/AscorbicacidItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Ascorbicrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ascorbicrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/ascorbicrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Hydrochlohydricacid",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hydrochlohydricacid",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/hydrochlohydricacid.json",
+          "src/main/resources/assets/molecules_madness/models/item/hydrochlohydricacid.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/HydrochlohydricacidItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Hydrochlohydricacidrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hydrochlohydricacidrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/hydrochlohydricacidrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Elephantstoothpaste2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "elephantstoothpaste_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/elephantstoothpaste_2.json"
+        ]
+      }
+    },
+    {
+      "name": "Compounds",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compounds",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Products",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "products",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "ArrowofNitroglycerinProjectileHitsBlock",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "arrowof_nitroglycerin_projectile_hits_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/procedures/ArrowofNitroglycerinProjectileHitsBlockProcedure.java"
+        ]
+      }
+    },
+    {
+      "name": "Nitroglycerinbomb",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nitroglycerinbomb",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/NitroglycerinbombItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/nitroglycerinbomb.json",
+          "src/main/resources/assets/molecules_madness/items/nitroglycerinbomb.json"
+        ]
+      }
+    },
+    {
+      "name": "Nitroglycerinbombrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nitroglycerinbombrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/nitroglycerinbombrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "ArrowofNitroglycerin",
+      "type": "projectile",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "arrowof_nitroglycerin",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/entity/ArrowofNitroglycerinEntity.java"
+        ]
+      }
+    },
+    {
+      "name": "Mercuryfulminatethrowable",
+      "type": "projectile",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mercuryfulminatethrowable",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/entity/MercuryfulminatethrowableEntity.java"
+        ]
+      }
+    },
+    {
+      "name": "MercuryFulminateExplosion",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mercury_fulminate_explosion",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/procedures/MercuryFulminateExplosionProcedure.java"
+        ]
+      }
+    },
+    {
+      "name": "Lacticacid",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lacticacid",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/LacticacidItem.java",
+          "src/main/resources/assets/molecules_madness/items/lacticacid.json",
+          "src/main/resources/assets/molecules_madness/models/item/lacticacid.json"
+        ]
+      }
+    },
+    {
+      "name": "Nucleicacid",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nucleicacid",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/NucleicacidItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/nucleicacid.json",
+          "src/main/resources/assets/molecules_madness/items/nucleicacid.json"
+        ]
+      }
+    },
+    {
+      "name": "Nucleicacidrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nucleicacidrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/nucleicacidrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Aminoacid",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aminoacid",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/AminoacidItem.java",
+          "src/main/resources/assets/molecules_madness/items/aminoacid.json",
+          "src/main/resources/assets/molecules_madness/models/item/aminoacid.json"
+        ]
+      }
+    },
+    {
+      "name": "Aminoacidrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aminoacidrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/aminoacidrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Hydroiodicacid",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hydroiodicacid",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/hydroiodicacid.json",
+          "src/main/resources/assets/molecules_madness/items/hydroiodicacid.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/HydroiodicacidItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Bromine",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bromine",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/bromine.json",
+          "src/main/resources/assets/molecules_madness/models/item/bromine.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/BromineItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Brominerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "brominerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/brominerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Hydrobromicacid",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hydrobromicacid",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/hydrobromicacid.json",
+          "src/main/resources/assets/molecules_madness/items/hydrobromicacid.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/HydrobromicacidItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Hydrobromicacidrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hydrobromicacidrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/hydrobromicacidrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Chloricacid",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chloricacid",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/chloricacid.json",
+          "src/main/resources/assets/molecules_madness/items/chloricacid.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/ChloricacidItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Chloricacidrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chloricacidrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/chloricacidrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "FluoroantimonicAcid",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fluoroantimonic_acid",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/FluoroantimonicAcidItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/fluoroantimonic_acid.json",
+          "src/main/resources/assets/molecules_madness/items/fluoroantimonic_acid.json"
+        ]
+      }
+    },
+    {
+      "name": "FluoroantimonicAcidrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fluoroantimonic_acidrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/fluoroantimonic_acidrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Carboraneacid",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carboraneacid",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/carboraneacid.json",
+          "src/main/resources/assets/molecules_madness/models/item/carboraneacid.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/CarboraneacidItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Boron",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boron",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/boron.json",
+          "src/main/resources/assets/molecules_madness/items/boron.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/BoronItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Boronrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boronrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/boronrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Carboranecluster",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carboranecluster",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/CarboraneclusterItem.java",
+          "src/main/resources/assets/molecules_madness/items/carboranecluster.json",
+          "src/main/resources/assets/molecules_madness/models/item/carboranecluster.json"
+        ]
+      }
+    },
+    {
+      "name": "Carboraneclusterrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carboraneclusterrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/carboraneclusterrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Carboraneacidrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "carboraneacidrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/carboraneacidrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Iodine",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iodine",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/iodine.json",
+          "src/main/resources/assets/molecules_madness/models/item/iodine.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/IodineItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Iodinerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "iodinerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/iodinerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Sodiumfluorine",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sodiumfluorine",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/sodiumfluorine.json",
+          "src/main/resources/assets/molecules_madness/models/item/sodiumfluorine.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/SodiumfluorineItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Fluorine",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fluorine",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/fluorine.json",
+          "src/main/resources/assets/molecules_madness/items/fluorine.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/FluorineItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Fluorinerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fluorinerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/fluorinerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Antimony",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "antimony",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/AntimonyItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/antimony.json",
+          "src/main/resources/assets/molecules_madness/items/antimony.json"
+        ]
+      }
+    },
+    {
+      "name": "Sibnitecompound",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sibnitecompound",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/sibnitecompound.json",
+          "src/main/resources/assets/molecules_madness/models/item/sibnitecompound.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/SibnitecompoundItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Sibnitecompoundrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sibnitecompoundrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/sibnitecompoundrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Antimonyrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "antimonyrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/antimonyrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "AntimonyPentafluoride",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "antimony_pentafluoride",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/antimony_pentafluoride.json",
+          "src/main/resources/assets/molecules_madness/items/antimony_pentafluoride.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/AntimonyPentafluorideItem.java"
+        ]
+      }
+    },
+    {
+      "name": "AntimonyPentafluoriderecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "antimony_pentafluoriderecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/antimony_pentafluoriderecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "HydrogenFluoride",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hydrogen_fluoride",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/hydrogen_fluoride.json",
+          "src/main/resources/assets/molecules_madness/models/item/hydrogen_fluoride.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/HydrogenFluorideItem.java"
+        ]
+      }
+    },
+    {
+      "name": "HydrogenFluoriderecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hydrogen_fluoriderecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/hydrogen_fluoriderecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Magicacid",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magicacid",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/magicacid.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/MagicacidItem.java",
+          "src/main/resources/assets/molecules_madness/items/magicacid.json"
+        ]
+      }
+    },
+    {
+      "name": "Fluorosulfuracid",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fluorosulfuracid",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/FluorosulfuracidItem.java",
+          "src/main/resources/assets/molecules_madness/items/fluorosulfuracid.json",
+          "src/main/resources/assets/molecules_madness/models/item/fluorosulfuracid.json"
+        ]
+      }
+    },
+    {
+      "name": "Fluorosulfuracidrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fluorosulfuracidrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/fluorosulfuracidrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Magicacidrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "magicacidrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/magicacidrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Hydroiodicacidrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hydroiodicacidrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/hydroiodicacidrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Nitrocellulose",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nitrocellulose",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/nitrocellulose.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/NitrocelluloseItem.java",
+          "src/main/resources/assets/molecules_madness/items/nitrocellulose.json"
+        ]
+      }
+    },
+    {
+      "name": "Nitrocelluloserecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nitrocelluloserecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/nitrocelluloserecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "NitrocellulosethrowableProjectileHitsBlock",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nitrocellulosethrowable_projectile_hits_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/procedures/NitrocellulosethrowableProjectileHitsBlockProcedure.java"
+        ]
+      }
+    },
+    {
+      "name": "Nitrocellulosethrowable",
+      "type": "projectile",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nitrocellulosethrowable",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/entity/NitrocellulosethrowableEntity.java"
+        ]
+      }
+    },
+    {
+      "name": "Lithium",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lithium",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/lithium.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/LithiumItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/lithium.json"
+        ]
+      }
+    },
+    {
+      "name": "Lithiumrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lithiumrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/lithiumrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Lithiumfluoride",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lithiumfluoride",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/lithiumfluoride.json",
+          "src/main/resources/assets/molecules_madness/items/lithiumfluoride.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/LithiumfluorideItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Lithiumfluoriderecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lithiumfluoriderecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/lithiumfluoriderecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Lithiumchloride",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lithiumchloride",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/lithiumchloride.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/LithiumchlorideItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/lithiumchloride.json"
+        ]
+      }
+    },
+    {
+      "name": "Lithiumchloriderecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lithiumchloriderecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/lithiumchloriderecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Aircanister",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aircanister",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/AircanisterItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/aircanister.json",
+          "src/main/resources/assets/molecules_madness/items/aircanister.json"
+        ]
+      }
+    },
+    {
+      "name": "Aircanisterrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aircanisterrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/aircanisterrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Nitrogencanister",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nitrogencanister",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/nitrogencanister.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/NitrogencanisterItem.java",
+          "src/main/resources/assets/molecules_madness/items/nitrogencanister.json"
+        ]
+      }
+    },
+    {
+      "name": "Oxygencanister",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oxygencanister",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/OxygencanisterItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/oxygencanister.json",
+          "src/main/resources/assets/molecules_madness/items/oxygencanister.json"
+        ]
+      }
+    },
+    {
+      "name": "Oxygencanisterrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oxygencanisterrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/oxygencanisterrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Nitrogencanisterrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nitrogencanisterrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/nitrogencanisterrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "LiquidNitrogen",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "liquid_nitrogen",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/LiquidNitrogenItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/liquid_nitrogen.json",
+          "src/main/resources/assets/molecules_madness/items/liquid_nitrogen.json"
+        ]
+      }
+    },
+    {
+      "name": "Liquidnitrogenrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "liquidnitrogenrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/liquidnitrogenrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Airliquid",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "airliquid",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/airliquid.json",
+          "src/main/resources/assets/molecules_madness/items/airliquid.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/AirliquidItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Airliquidrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "airliquidrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/airliquidrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Neon",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "neon",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/items/neon.json",
+          "src/main/resources/assets/molecules_madness/models/item/neon.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/NeonItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Neonrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "neonrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/neonrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Neonblock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "neonblock",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/neonblock.json",
+          "src/main/resources/assets/molecules_madness/items/neonblock.json",
+          "src/main/resources/assets/molecules_madness/blockstates/neonblock.json",
+          "src/main/java/net/mcreator/moleculesmadness/block/NeonblockBlock.java",
+          "src/main/resources/data/molecules_madness/loot_table/blocks/neonblock.json",
+          "src/main/resources/assets/molecules_madness/models/block/neonblock.json"
+        ]
+      }
+    },
+    {
+      "name": "Superfertilizer",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superfertilizer",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/superfertilizer.json",
+          "src/main/resources/assets/molecules_madness/items/superfertilizer.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/SuperfertilizerItem.java"
+        ]
+      }
+    },
+    {
+      "name": "SuperfertilizerRightclickedOnBlock",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superfertilizer_rightclicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/procedures/SuperfertilizerRightclickedOnBlockProcedure.java"
+        ]
+      }
+    },
+    {
+      "name": "Phosphorus",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phosphorus",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/PhosphorusItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/phosphorus.json",
+          "src/main/resources/assets/molecules_madness/items/phosphorus.json"
+        ]
+      }
+    },
+    {
+      "name": "Phosphorusrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "phosphorusrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/phosphorusrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Superfertilizerrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superfertilizerrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/superfertilizerrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Neonblockrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "neonblockrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/neonblockrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Potassium",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "potassium",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/PotassiumItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/potassium.json",
+          "src/main/resources/assets/molecules_madness/items/potassium.json"
+        ]
+      }
+    },
+    {
+      "name": "Potassiumrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "potassiumrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/potassiumrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Pollucitedust",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pollucitedust",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/pollucitedust.json",
+          "src/main/resources/assets/molecules_madness/items/pollucitedust.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/PollucitedustItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Pollucitedustrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pollucitedustrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/pollucitedustrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Cesium",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cesium",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/CesiumItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/cesium.json",
+          "src/main/resources/assets/molecules_madness/items/cesium.json"
+        ]
+      }
+    },
+    {
+      "name": "Cesiumrecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cesiumrecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/cesiumrecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Cesiumhydroxide",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cesiumhydroxide",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/molecules_madness/models/item/cesiumhydroxide.json",
+          "src/main/java/net/mcreator/moleculesmadness/item/CesiumhydroxideItem.java",
+          "src/main/resources/assets/molecules_madness/items/cesiumhydroxide.json"
+        ]
+      }
+    },
+    {
+      "name": "Cesiumhydroxiderecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cesiumhydroxiderecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/cesiumhydroxiderecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Dryice",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dryice",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/DryiceItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/dryice.json",
+          "src/main/resources/assets/molecules_madness/items/dryice.json"
+        ]
+      }
+    },
+    {
+      "name": "Dryicerecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dryicerecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/dryicerecipe.json"
+        ]
+      }
+    },
+    {
+      "name": "DryiceRightclicked",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dryice_rightclicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/procedures/DryiceRightclickedProcedure.java"
+        ]
+      }
+    },
+    {
+      "name": "Dryicethrowable",
+      "type": "projectile",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dryicethrowable",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/entity/DryicethrowableEntity.java"
+        ]
+      }
+    },
+    {
+      "name": "Sodiumphenoxide",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sodiumphenoxide",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/moleculesmadness/item/SodiumphenoxideItem.java",
+          "src/main/resources/assets/molecules_madness/models/item/sodiumphenoxide.json",
+          "src/main/resources/assets/molecules_madness/items/sodiumphenoxide.json"
+        ]
+      }
+    },
+    {
+      "name": "Sodiumphenoxiderecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sodiumphenoxiderecipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/molecules_madness/recipe/sodiumphenoxiderecipe.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "greenfire_variable",
+      "type": "logic",
+      "scope": "map",
+      "value": "false"
+    }
+  ],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.molecules_madness.dihydrogenmonoxide": "Dihydrogen monoxide",
+      "item.molecules_madness.saltwater": "Sodium Chloride water",
+      "item.molecules_madness.sodium_chloride": "Sodium Chloride",
+      "item.molecules_madness.methane": "Methane",
+      "item.molecules_madness.chlorine": "Chlorine",
+      "item.molecules_madness.carbondioxide": "Carbon dioxide",
+      "item.molecules_madness.ammonia": "Ammonia",
+      "item.molecules_madness.oxygen": "Oxygen",
+      "item.molecules_madness.nitricacid": "Nitric acid",
+      "item.molecules_madness.hydrogen_perioxide": "Hydrogen Perioxide",
+      "item.molecules_madness.ethanol": "Ethanol",
+      "item.molecules_madness.glue": "Glue",
+      "item.molecules_madness.oxyenmolecules": "Oxygen molecules",
+      "item.molecules_madness.ozone": "Ozone",
+      "item.molecules_madness.acetone": "Acetone",
+      "item.molecules_madness.carbon": "Carbon",
+      "item.molecules_madness.hydrogen": "Hydrogen",
+      "item.molecules_madness.ammonium_nitrate": "Ammonium Nitrate",
+      "item.molecules_madness.ethylene": "Ethylene",
+      "item.molecules_madness.polyethylene": "Polyethylene",
+      "item.molecules_madness.sodiumhydroxide": "Sodiumhydroxide",
+      "item.molecules_madness.sodiumhypochlorite": "Sodium hypochlorite",
+      "item.molecules_madness.oil": "Crude Oil",
+      "item.molecules_madness.glycerin": "Glycerin",
+      "item.molecules_madness.soap": "Soap",
+      "item.molecules_madness.soaprecipe": "Soaprecipe",
+      "item.molecules_madness.benzene": "Benzene",
+      "item.molecules_madness.latex": "Latex",
+      "item.molecules_madness.petrolium": "Petrolium",
+      "item.molecules_madness.magnesiumsalt": "Magnesium salt",
+      "item.molecules_madness.magnesium": "Magnesium",
+      "item.molecules_madness.magnesium_oxide": "Magnesium Oxide",
+      "item.molecules_madness.calciumchloride": "Calcium chloride",
+      "item.molecules_madness.potassiumchloride": "Potassium chloride",
+      "item.molecules_madness.mercuric_chloride": "Mercuric Chloride",
+      "item.molecules_madness.oxidized_ethanol": "Oxidized Ethanol",
+      "item.molecules_madness.sodiumacetate": "Sodium acetate",
+      "item.molecules_madness.luminol": "Luminol",
+      "item.molecules_madness.sulfuricacid": "Sulfuric acid",
+      "item.molecules_madness.nitroglycerin": "Nitroglycerin",
+      "item.molecules_madness.flour": "Flour",
+      "item.molecules_madness.yeast": "Yeast",
+      "item.molecules_madness.elephantstoothpaste": "Elephant\u0027s toothpaste",
+      "item.molecules_madness.potassiumiodide": "Potassium iodide",
+      "item.molecules_madness.potassiumpermanganat": "Potassium permanganat",
+      "item.molecules_madness.manganeseheptoxide": "Manganese heptoxide",
+      "item.molecules_madness.sodium": "Sodium",
+      "item.molecules_madness.bakingsoda": "Bakingsoda",
+      "item.molecules_madness.carbonmonoxide": "Carbon monoxide",
+      "item.molecules_madness.dihydrogen": "Dihydrogen",
+      "item.molecules_madness.tetraoxygen": "Tetraoxygen",
+      "item.molecules_madness.octaoxygen": "Octaoxygen",
+      "item.molecules_madness.dicarbon": "Dicarbon",
+      "item.molecules_madness.trimersodium": "Trimer sodium",
+      "item.molecules_madness.sodiumdiatomic": "Sodium diatomic",
+      "item.molecules_madness.dinitrogen": "Dinitrogen",
+      "item.molecules_madness.diphosphorus": "Diphosphorus",
+      "item.molecules_madness.dinitrogenmonoxide": "Dinitrogen monoxide",
+      "item.molecules_madness.phenol": "Phenol",
+      "item.molecules_madness.sulfurdioxide": "Sulfur dioxide",
+      "item.molecules_madness.nitrousoxide": "Nitrous oxide",
+      "item.molecules_madness.propane": "Propane",
+      "item.molecules_madness.butane": "Butane",
+      "item.molecules_madness.aceticacid": "Acetic acid",
+      "item.molecules_madness.formaldehyde": "Formaldehyde",
+      "item.molecules_madness.methanol": "Methanol",
+      "item.molecules_madness.acetylene": "Acetylene",
+      "item.molecules_madness.hydrogencyanide": "Hydrogen cyanide",
+      "item.molecules_madness.nitricoxide": "Nitric oxide",
+      "item.molecules_madness.nitrogen": "Nitrogen",
+      "item.molecules_madness.hydrogensulfide": "Hydrogen sulfide",
+      "item.molecules_madness.silicondioxide": "Silicon dioxide",
+      "item.molecules_madness.calciumcarbonate": "Calcium carbonate",
+      "item.molecules_madness.phosphoricacid": "Phosphori cacid",
+      "item.molecules_madness.sodiumcarbonate": "Sodium carbonate",
+      "item.molecules_madness.calciumoxide": "Calcium oxide",
+      "item.molecules_madness.ammoniumchloride": "Ammonium chloride",
+      "item.molecules_madness.sodiumfluoride": "Sodium fluoride",
+      "item.molecules_madness.hydrofluoricacid": "Hydrofluoric acid",
+      "item.molecules_madness.citricacid": "Citric acid",
+      "item.molecules_madness.formicacid": "Formic acid",
+      "item.molecules_madness.oxalicacid": "Oxalic acid",
+      "item.molecules_madness.chromicacid": "Chromic acid",
+      "item.molecules_madness.carbonicacid": "Carbonic acid",
+      "item.molecules_madness.perchloricacid": "Perchloric acid",
+      "item.molecules_madness.hypochlorousacid": "Hypochlorous acid",
+      "item.molecules_madness.boricacid": "Boric acid",
+      "item.molecules_madness.mercury": "Mercury",
+      "item.molecules_madness.mercurynitrate": "Mercury nitrate",
+      "item.molecules_madness.mercuryfulminate": "Mercury fulminate",
+      "item.molecules_madness.borax": "Borax",
+      "item.molecules_madness.glucose": "Glucose",
+      "item.molecules_madness.caffeine": "Caffeine",
+      "item.molecules_madness.borosilicate_glass": "Borosilicate Glass",
+      "item.molecules_madness.methylamine": "Methylamine",
+      "item.molecules_madness.phosphine": "Phosphine",
+      "item.molecules_madness.aluminum": "Aluminum",
+      "item.molecules_madness.ironoxide": "Iron oxide",
+      "item.molecules_madness.aluminumoxide": "Aluminum oxide",
+      "item.molecules_madness.thermite": "Thermite",
+      "item.molecules_madness.ricin": "Ricin",
+      "item.molecules_madness.ascorbicacid": "Ascorbic acid",
+      "item.molecules_madness.hydrochlohydricacid": "Hydrochlodric acid",
+      "item_group.molecules_madness.compounds": "Compounds",
+      "item_group.molecules_madness.products": "Products",
+      "item.molecules_madness.nitroglycerinbomb": "Nitroglycerin bomb",
+      "item.molecules_madness.lacticacid": "Lactic acid",
+      "item.molecules_madness.nucleicacid": "Nucleicacid",
+      "item.molecules_madness.aminoacid": "Aminoacid",
+      "item.molecules_madness.hydroiodicacid": "Hydroiodic acid",
+      "item.molecules_madness.bromine": "Bromine",
+      "item.molecules_madness.hydrobromicacid": "Hydrobromic acid",
+      "item.molecules_madness.chloricacid": "Chloric acid",
+      "item.molecules_madness.fluoroantimonic_acid": "Fluoroantimonic Acid",
+      "item.molecules_madness.carboraneacid": "Carborane acid",
+      "item.molecules_madness.boron": "Boron",
+      "item.molecules_madness.carboranecluster": "Carborane cluster",
+      "item.molecules_madness.iodine": "Iodine",
+      "item.molecules_madness.sodiumfluorine": "Sodium fluorine",
+      "item.molecules_madness.fluorine": "Fluorine",
+      "item.molecules_madness.antimony": "Antimony",
+      "item.molecules_madness.sibnitecompound": "Sibnite compound",
+      "item.molecules_madness.antimony_pentafluoride": "Antimony Pentafluoride",
+      "item.molecules_madness.hydrogen_fluoride": "Hydrogen Fluoride",
+      "item.molecules_madness.magicacid": "Magicacid",
+      "item.molecules_madness.fluorosulfuracid": "Fluorosulfur acid",
+      "item.molecules_madness.nitrocellulose": "Nitrocellulose",
+      "item.molecules_madness.lithium": "Lithium",
+      "item.molecules_madness.lithiumfluoride": "Lithium fluoride",
+      "item.molecules_madness.lithiumchloride": "Lithium chloride",
+      "item.molecules_madness.aircanister": "Aircanister",
+      "item.molecules_madness.nitrogencanister": "Nitrogen canister",
+      "item.molecules_madness.oxygencanister": "Oxygen canister",
+      "item.molecules_madness.liquid_nitrogen": "Liquid Nitrogen",
+      "item.molecules_madness.airliquid": "Airliquid",
+      "item.molecules_madness.neon": "Neon",
+      "item.molecules_madness.neonblock": "Neonblock",
+      "item.molecules_madness.superfertilizer": "Superfertilizer",
+      "item.molecules_madness.phosphorus": "Phosphorus",
+      "item.molecules_madness.potassium": "Potassium",
+      "item.molecules_madness.pollucitedust": "Pollucite dust",
+      "item.molecules_madness.cesium": "Cesium",
+      "item.molecules_madness.cesiumhydroxide": "Cesium hydroxide",
+      "item.molecules_madness.dryice": "Dryice",
+      "item.molecules_madness.sodiumphenoxide": "Sodiumphenoxide"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/net/mcreator/moleculesmadness/init/MoleculesMadnessModBlocks.java",
+      "src/main/java/net/mcreator/moleculesmadness/init/MoleculesMadnessModItems.java",
+      "src/main/java/net/mcreator/moleculesmadness/init/MoleculesMadnessModEntities.java",
+      "src/main/java/net/mcreator/moleculesmadness/init/MoleculesMadnessModEntityRenderers.java",
+      "src/main/resources/pack.mcmeta",
+      "src/main/java/net/mcreator/moleculesmadness/network/MoleculesMadnessModVariables.java",
+      "src/main/java/net/mcreator/moleculesmadness/init/MoleculesMadnessModTabs.java",
+      "src/main/resources/META-INF/neoforge.mods.toml",
+      "src/main/java/net/mcreator/moleculesmadness/MoleculesMadnessMod.java"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "molecules_madness",
+    "modName": "Molecules madness",
+    "version": "1.0.0",
+    "author": "MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.8",
+    "modElementsPackage": "net.mcreator.moleculesmadness"
+  },
+  "mcreatorVersion": 202600114619
+}
